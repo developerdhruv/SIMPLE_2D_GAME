@@ -1,0 +1,24 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#gameContainer{
+    text-align: center;
+}
+
+#gameboard{
+    border: 2px solid black;
+}
+
+#score{
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#reset{
+    font-size: 25px;
+    border-radius: 20px;
+    width: auto;
+    height: auto;
+}
